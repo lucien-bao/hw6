@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "styles.css"?>
+<products>
+    <product>
+        <name>Mountain</name>
+        <price>0.01</price>
+        <description>The basic land that taps for one red mana.</description>
+        <categories>
+            <category>basic</category>
+            <category>land</category>
+            <category>mountain</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Sacred Foundry</name>
+        <price>19.81</price>
+        <description>A Ravnica shockland in Boros (red and white).</description>
+        <categories>
+            <category>land</category>
+            <category>mountain</category>
+            <category>plains</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Breya, Etherium Shaper</name>
+        <price>7.80</price>
+        <description>An artifact-based commander that leans towards control.</description>
+        <categories>
+            <category>legendary</category>
+            <category>artifact</category>
+            <category>creature</category>
+            <category>human</category>
+        </categories>
+    </product>
+    
+    <product>
+        <name>Collector's Vault</name>
+        <price>0.26</price>
+        <description>An artifact that loots and gives you treasures.</description>
+        <categories>
+            <category>artifact</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Ingenious Artillerist</name>
+        <price>0.18</price>
+        <description>A creature that pings your opponents when artifacts enter.</description>
+        <categories>
+            <category>creature</category>
+            <category>human</category>
+            <category>artificer</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Illusionist's Bracers</name>
+        <price>2.71</price>
+        <description>An equipment that doubles abilities.</description>
+        <categories>
+            <category>artifact</category>
+            <category>equipment</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Savai Triome</name>
+        <price>16.34</price>
+        <description>An Ikorian triome in Mardu (red, white, and black).</description>
+        <categories>
+            <category>land</category>
+            <category>mountain</category>
+            <category>plains</category>
+            <category>swamp</category>
+        </categories>
+    </product>
+
+    <product>
+        <name>Sol Ring</name>
+        <price>1.30</price>
+        <description>A near-universally played mana rock.</description>
+        <categories>
+            <category>artifact</category>
+        </categories>
+    </product>
+</products>
